@@ -1,7 +1,6 @@
 - 👋 Hi, I’m xuze
 - 💻 Software Engineer
 - 🕸 Full-Stack Web Developer
-- ☕️ Indie Hacker
 - 👀 Learning AI Related
 - 📷 Interested in Chinese chess
 - 📍 Living in Tianjin, China
