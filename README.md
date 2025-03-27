@@ -9,6 +9,7 @@
 - 🌍 My Products
   - [流光前端小站](https://flowdash.cn/)
   - [流光起始页](https://flowdash.top/)
+  - [zen-gitsync](https://www.npmjs.com/package/zen-gitsync)
 
 
 
